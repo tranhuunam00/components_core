@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/tranhuunam00/components_core/issues"
   },
-  "homepage": "https://github.com/tranhuunam00/components_core#readme"
+  "homepage": "https://github.com/tranhuunam00/components_core#readme",
+  "dependencies": {
+    "@ggnam/components_core": "^1.0.0",
+    "lodash": "^4.17.21"
+  }
 }
